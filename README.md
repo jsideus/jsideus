@@ -3,7 +3,7 @@
 
 # Jeremy Ideus
 
-**Senior SDET / Automation Engineer** · 11+ years in enterprise C#/.NET
+**Senior SDET / Automation Engineer** · 11+ years in enterprise custom software development. 4 years Java and 5 years C#/.NET
 
 I design and build test automation infrastructure for distributed systems — CI/CD pipelines, service virtualization, contract testing, and observability-driven quality across microservices architectures.
 

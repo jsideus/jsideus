@@ -3,7 +3,7 @@
 
 # Jeremy Ideus
 
-**Senior SDET / Automation Engineer** · 11+ years in enterprise custom software development.
+**Senior SDET / Automation Engineer** · 11+ years in enterprise custom software development, software testing and quality engineering.
 
 I design and build test automation infrastructure for distributed systems — CI/CD pipelines, service virtualization, contract testing, and observability-driven quality across microservices architectures.
 

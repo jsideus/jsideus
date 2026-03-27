@@ -13,7 +13,7 @@ My work focuses on end-to-end test strategy and making test infrastructure a fir
 
 ### What I Work With
 
-**Core:** C# · .NET · Reqnroll/SpecFlow · xUnit · Playwright · REST · graphQL · SQL Server 
+**Core:** C# · .NET · Reqnroll/SpecFlow · xUnit · Playwright · REST · GraphQL · SQL Server 
 
 **Infrastructure:** Azure DevOps · GitHub Actions · Docker · Redis · NServiceBus · Azure Service Bus  
 

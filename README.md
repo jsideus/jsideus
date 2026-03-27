@@ -3,7 +3,7 @@
 
 # Jeremy Ideus
 
-**Senior SDET / Automation Engineer** · 11+ years in enterprise custom software development. 4 years Java and 5 years C#/.NET
+**Senior SDET / Automation Engineer** · 11+ years in enterprise custom software development.
 
 I design and build test automation infrastructure for distributed systems — CI/CD pipelines, service virtualization, contract testing, and observability-driven quality across microservices architectures.
 
@@ -13,7 +13,7 @@ My work focuses on making test infrastructure a first-class engineering concern:
 
 ### What I Work With
 
-**Core:** C# · .NET · Reqnroll/SpecFlow · xUnit · Playwright · REST/gRPC  
+**Core:** C# · .NET · Reqnroll/SpecFlow · xUnit · Playwright · REST/gRPC · graphQL 
 **Infrastructure:** Azure DevOps · GitHub Actions · Docker · Redis · NServiceBus · Azure Service Bus  
 **Patterns:** BDD at scale · Sharded CI/CD pipelines · Service virtualization · Pipeline reliability analysis  
 **Evolving:** OpenTelemetry · WireMock.NET · Quality Intelligence (observability for test systems)

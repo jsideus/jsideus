@@ -13,7 +13,7 @@ My work focuses on making test infrastructure a first-class engineering concern:
 
 ### What I Work With
 
-**Core:** C# · .NET · Reqnroll/SpecFlow · xUnit · Playwright · REST · graphQL
+**Core:** C# · .NET · Reqnroll/SpecFlow · xUnit · Playwright · REST · graphQL · SQL Server 
 
 **Infrastructure:** Azure DevOps · GitHub Actions · Docker · Redis · NServiceBus · Azure Service Bus  
 

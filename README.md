@@ -5,9 +5,9 @@
 
 **Senior SDET / Automation Engineer** · 11+ years in enterprise custom software development, software testing and quality engineering.
 
-I design and build test automation infrastructure for distributed systems — CI/CD pipelines, service virtualization, contract testing, and observability-driven quality across microservices architectures.
+I design and build test automation infrastructure for distributed systems — End-to-end testing frameworks, CI/CD pipelines, service virtualization, contract testing, and observability-driven quality across microservices architectures.
 
-My work focuses on making test infrastructure a first-class engineering concern: reliable, maintainable, and delivering measurable signal at scale.
+My work focuses on end-to-end test strategy and making test infrastructure a first-class engineering concern: reliable, maintainable, and delivering measurable software quality at scale.
 
 ---
 
@@ -36,7 +36,7 @@ My work focuses on making test infrastructure a first-class engineering concern:
 ### Background
 
 MBA, Hult International Business School (Triple Crown accredited)  
-Nashville Software School, Full-Stack Development (Cohort 4)  
+Nashville Software School, Full-Stack Development (Cohort 4 graduate)  
 11+ years across healthcare, insurance, fintech, and ticketing platforms  
 Fully remote since 2020
 
